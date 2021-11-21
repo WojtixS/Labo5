@@ -39,7 +39,7 @@ public class Lab5_2 {
                     String.format("pierwiastek kwadratowy z liczby rzeczywistej"
                     +"<0 nie istnieje"));
         }
-            System.out.println(String.format("Pierwiastek z "+liczba+"wynosi:"+ Math.sqrt(liczba))));
+            System.out.println("Pierwiastek z "+liczba+"wynosi:"+ Math.sqrt(liczba));
                     
         
     }
